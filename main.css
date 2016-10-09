@@ -1,5 +1,5 @@
 .about {
-	font-size: 30px;
+	font-size: 20px;
 	margin-bottom: 10px;
 	margin-left: 30px;
 	margin-top: 15px;
@@ -34,26 +34,26 @@
 }
 
 .dateButton {
-	margin-right: 20px;
+	margin-right: 15px;
 	background-color: #E0E0E0;
 	border: none;
 	width: 40px;
-	font-size: 24px;
+	font-size: 20px;
 	cursor: pointer;
 }
 
 .monthLabel {
-	font-size: 30px;
+	font-size: 20px;
 	margin-right: 10px;
 }
 
 .monthContainer {
-	margin-top: 10px;
+	margin-top: 5px;
 }
 
 .monthDiv {
 	float: left;
-	width: 150px;
+	width: 120px;
 }
 
 .yearLabel {
@@ -62,5 +62,5 @@
 }
 
 .yearContainer {
-	margin-top: 20px;
+	margin-top: 15px;
 }
