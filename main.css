@@ -1,0 +1,66 @@
+.about {
+	font-size: 30px;
+	margin-bottom: 10px;
+	margin-left: 30px;
+	margin-top: 15px;
+}
+
+#ne {
+	position: absolute;
+	left: 398px;
+	top: 150px;
+}
+
+#se {
+	position: absolute;
+	left: 130px;
+	top: 470px;
+	width: 450px;
+  -webkit-clip-path: polygon(0 170px, 0 386px, 630px 386px, 630px 50px, 400px 50px, 250px 50px, 200px 100px);
+}
+
+#mw {
+	position: absolute;
+	left: 30px;
+	top: 80px;
+	width: 500px;
+  -webkit-clip-path: polygon(0 0, 0 475px, 300px 475px, 370px 440px, 370px 340px, 400px 320px, 400px 200px, 475px 0);
+}
+
+#buttons {
+	position: absolute;
+	left: 1000px;
+	top: 70px;
+}
+
+.dateButton {
+	margin-right: 20px;
+	background-color: #E0E0E0;
+	border: none;
+	width: 40px;
+	font-size: 24px;
+	cursor: pointer;
+}
+
+.monthLabel {
+	font-size: 30px;
+	margin-right: 10px;
+}
+
+.monthContainer {
+	margin-top: 10px;
+}
+
+.monthDiv {
+	float: left;
+	width: 150px;
+}
+
+.yearLabel {
+	font-size: 32px;
+	margin-right: 20px;
+}
+
+.yearContainer {
+	margin-top: 20px;
+}

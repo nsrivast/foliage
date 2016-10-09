@@ -1,0 +1,35 @@
+
+MIDWEST
+---
+sx = 14
+sy = 84
+swidth = 450
+sheight = 380
+x = 30
+y = 30
+width = 450*78
+height = 380*78
+
+
+NORTHEAST
+---
+sx = 0
+sy = 0
+swidth = 472
+sheight = 405
+x = 702
+y = 134
+width = 472*58
+height = 405*58
+
+
+SOUTHEAST
+---
+sx = 0
+sy = 0
+swidth = 625
+sheight = 385
+x = 317
+y = 520
+width = 625*50
+height = 385*50
