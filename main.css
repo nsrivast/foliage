@@ -9,6 +9,7 @@
 	position: absolute;
 	left: 398px;
 	top: 150px;
+  -webkit-clip-path: polygon(0 250px, 0 405px, 470px 405px, 470px 2px, 370px 2px);
 }
 
 #se {
@@ -16,15 +17,15 @@
 	left: 130px;
 	top: 470px;
 	width: 450px;
-  -webkit-clip-path: polygon(0 170px, 0 386px, 630px 386px, 630px 50px, 400px 50px, 250px 50px, 200px 100px);
+  -webkit-clip-path: polygon(2px 170px, 2px 230px, 200px 230px, 300px 260px, 440px 260px, 440px 50px, 400px 50px, 250px 50px, 200px 100px);
 }
 
 #mw {
 	position: absolute;
-	left: 30px;
-	top: 80px;
+	left: 33px;
+	top: 78px;
 	width: 500px;
-  -webkit-clip-path: polygon(0 0, 0 475px, 300px 475px, 370px 440px, 370px 340px, 400px 320px, 400px 200px, 475px 0);
+  -webkit-clip-path: polygon(2px 2px, 2px 475px, 300px 475px, 370px 440px, 370px 340px, 400px 320px, 400px 2px);
 }
 
 #buttons {
