@@ -14,7 +14,8 @@ def download_imgs():
   regions = ['northeast_us', 'midwest_us', 'southeast_us']
   months = ['%02d' % mm for mm in range(10, 12)]
   days = ['%02d' % dd for dd in range(1, 32)]
-  years = [str(yyyy) for yyyy in range(2008, 2017)]
+#  years = [str(yyyy) for yyyy in range(2008, 2017)]
+  years = [str(yyyy) for yyyy in range(2016, 2017)]
   img_types = ['lc', 'ld']
 
   tuples = [[r,m,d,y,i] for r in regions for m in months for d in days for y in years for i in img_types]
