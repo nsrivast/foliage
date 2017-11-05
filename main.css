@@ -40,7 +40,11 @@
 	border: none;
 	width: 40px;
 	font-size: 20px;
-	cursor: pointer;
+	cursor: pointer;	
+}
+
+.dateButtonActive {
+	background-color: yellow;
 }
 
 .monthLabel {
